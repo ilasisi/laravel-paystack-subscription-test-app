@@ -35,7 +35,7 @@
                                             <span class="ml-2 w-0 flex-1 truncate">
                                                 <p>
                                                     {{ $subscriber['customer_first_name'] }}
-                                                    {{ $subscriber['customer_first_name'] }}
+                                                    {{ $subscriber['customer_last_name'] }}
                                                 </p>
                                             </span>
                                         </div>
